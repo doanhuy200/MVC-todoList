@@ -1,0 +1,13 @@
+{
+    "name": "root/mvc-todo-list",
+    "description": "Project demo",
+    "require": {
+        "phpunit/phpunit": "^5.7"
+    },
+    "authors": [
+        {
+            "name": "Doan Huy",
+            "email": "doanhuynguyenhong@gmail.com"
+        }
+    ]
+}
